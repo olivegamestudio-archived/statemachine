@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28516.95
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OliveGameStudio.Core.StateMachine", "OliveGameStudio.Core.StateMachine.csproj", "{0C0F8443-C5E1-456E-8D40-91BCE8BD0455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C0F8443-C5E1-456E-8D40-91BCE8BD0455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0F8443-C5E1-456E-8D40-91BCE8BD0455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0F8443-C5E1-456E-8D40-91BCE8BD0455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0F8443-C5E1-456E-8D40-91BCE8BD0455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26D0F162-2252-4514-A815-FB220B0BE9B9}
+	EndGlobalSection
+EndGlobal
