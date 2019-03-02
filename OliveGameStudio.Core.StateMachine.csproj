@@ -1,12 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard1.1</TargetFramework>
+    <TargetFrameworks>netcoreapp2;netstandard1.3;net45;net46;net47;net40</TargetFrameworks>
+    <Copyright>(C) OliveGameStudio 2019</Copyright>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>State machines.</Description>
-    <Copyright>(C) OliveGameStudio 2019</Copyright>
     <PackageTags>state machines</PackageTags>
     <LangVersion>latest</LangVersion>
+    <Version>1.0.1</Version>
+    <Company>OliveGameStudio</Company>
+    <Authors>OliveGameStudio</Authors>
   </PropertyGroup>
 
 </Project>
